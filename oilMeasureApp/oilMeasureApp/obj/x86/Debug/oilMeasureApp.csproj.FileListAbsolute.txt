@@ -1,0 +1,3 @@
+F:\project\xxx\oilMeasureApp\oilMeasureApp\obj\x86\Debug\oilMeasure.MainForm.resources
+F:\project\xxx\oilMeasureApp\oilMeasureApp\obj\x86\Debug\oilMeasureApp.Properties.Resources.resources
+F:\project\xxx\oilMeasureApp\oilMeasureApp\obj\x86\Debug\oilMeasureApp.csproj.GenerateResource.Cache
