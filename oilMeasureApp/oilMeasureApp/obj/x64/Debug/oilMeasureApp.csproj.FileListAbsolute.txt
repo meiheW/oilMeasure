@@ -18,3 +18,13 @@ F:\project\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.cs
 F:\project\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasure.MainForm.resources
 F:\project\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.Properties.Resources.resources
 F:\project\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.csproj.GenerateResource.Cache
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\bin\x64\Debug\oilMeasureApp.exe.config
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.exe
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.pdb
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\bin\x64\Debug\oilMeasureApp.exe
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\bin\x64\Debug\oilMeasureApp.pdb
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\bin\x64\Debug\Unme.Common.dll
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.csprojResolveAssemblyReference.cache
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasure.MainForm.resources
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.Properties.Resources.resources
+F:\project\workarea\oilMeasure\oilMeasureApp\oilMeasureApp\obj\x64\Debug\oilMeasureApp.csproj.GenerateResource.Cache

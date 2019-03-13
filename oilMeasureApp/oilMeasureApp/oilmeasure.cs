@@ -37,8 +37,8 @@ namespace oilMeasure
         }
 
         private void initTcp() {
-            client = new TcpClient(tcpHost, tcpPort);
-            master = ModbusIpMaster.CreateIp(client);
+            //client = new TcpClient(tcpHost, tcpPort);
+            //master = ModbusIpMaster.CreateIp(client);
         }
         public double readvalue()
         {

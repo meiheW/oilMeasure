@@ -1,0 +1,9 @@
+F:\matrixmutiply\WindowsTest\WindowsTest\bin\Debug\WindowsTest.exe
+F:\matrixmutiply\WindowsTest\WindowsTest\bin\Debug\WindowsTest.pdb
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.Form1.resources
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.Properties.Resources.resources
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.csproj.GenerateResource.Cache
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.exe
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.pdb
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.IpAddress.resources
+F:\matrixmutiply\WindowsTest\WindowsTest\obj\x86\Debug\WindowsTest.csprojResolveAssemblyReference.cache
